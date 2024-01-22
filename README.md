@@ -33,7 +33,7 @@ for Order Class :
 # to get Order Based on id 
 3.curl --location 'localhost:8090/api/contoller/Fetching/1'
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 for Delivery Class :
 # POST request to save delivery 
 1. curl --location --request POST 'http://localhost:8090/api/delivery/controller/savedelivery' \
@@ -57,7 +57,7 @@ for Delivery Class :
 # GET request to retrieve delivery information
 2. curl --location 'http://localhost:8090/api/delivery/controller/getting/1'
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 
 for Menu Item Class :
 # POST request to save menu 
@@ -76,8 +76,8 @@ for Menu Item Class :
 
 # GET request to retrieve data
 2. curl --location 'http://localhost:8090/api/controller/gettingData/1'
-   
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+  
 #  my branch name is : online_food_delivery, please visit
 
 
